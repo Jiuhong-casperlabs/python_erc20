@@ -1,0 +1,11 @@
+{
+    "api_version": "1.4.10",
+    "dictionary_key": "dictionary-b9dda7ac73837d4752e6e47e1ec02d8408195642ee9e26fa6fbdbb5a7c64099a",
+    "stored_value": {
+        "CLValue": {
+            "cl_type": "U256",
+            "bytes": "071f7480d97b8d03",
+            "parsed": "999987999699999"
+        }
+    },
+}
